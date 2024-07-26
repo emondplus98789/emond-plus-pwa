@@ -1,0 +1,39 @@
+{
+  "background_color": "#ffffff",
+  "description": "Avec Emond +, vivez des moments de pure magie et de divertissement en famille, où les rêves prennent vie et où l'impossible devient possible - un peu comme dans les séries Netflix et Disney+ les plus captivantes. 🎞🎥",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Emond +",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Emond +",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://static.wixstatic.com/media/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg",
+      "type": "image/jpeg",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg",
+      "type": "image/jpeg",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/72b17d_17f7db0e13654e31bab989aba121f4c6%7Emv2.jpg",
+      "type": "image/jpeg",
+      "sizes": "1719x1330"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    }
+  ]
+}
