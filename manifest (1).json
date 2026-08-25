@@ -1,21 +1,29 @@
 {
+  "background_color": "#ffffff",
+  "description": "L'impossible devient possible",
+  "dir": "ltr",
+  "display": "standalone",
   "name": "Emond +",
+  "orientation": "any",
+  "scope": "/",
   "short_name": "Emond +",
   "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "description": "Vivez des moments de pure magie et de divertissement en famille",
+  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "https://emondplus.fr/wp-content/uploads/2026/07/192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "https://emondplus.fr/wp-content/uploads/2026/07/512-300x300-1.jpg",
+      "type": "image/jpeg",
+      "sizes": "300x300"
+    },
+    {
+      "src": "https://emondplus.fr/wp-content/uploads/2026/07/512-300x300-2.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "300x300"
     }
   ]
 }
